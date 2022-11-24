@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+html{
+    box-sizing: border-box;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+   
+}
+form{
+    border: 2px solid rgb(85, 85, 92);
+}
